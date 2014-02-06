@@ -2,7 +2,7 @@ Content for a restaurant site. Fill in this doc as a starting place to collect a
 
 #### Restaurant Name
 
-Maker
+Basilico
 
 #### Assets
 

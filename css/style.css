@@ -1,0 +1,26 @@
+.menu{
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	margin-left: 50px;
+}
+
+.contain-to-grid.sticky{
+	height: 74px;
+}
+
+.row.background-image{
+
+    max-height: 500px;
+    overflow: hidden;
+    max-width: 100%;
+
+}
+
+#slider{
+
+    background: url("file://localhost/Users/Tony%20Le/MakerSquare/restaurants-project/img/Basilico-private-room.jpg") 0 -312px;
+    height: 500px;
+    background-size: 100%;
+
+}
